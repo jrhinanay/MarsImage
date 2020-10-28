@@ -14,7 +14,7 @@ The project will definetely need some additional work to make it an "enterprise/
 # Installation
 Since this project is just for testing purposes only, the expectation would be the user will just get the code and run it manually in Visual Studio. 
 
-The project can run using docker. If you want to test it, you may downloading and install docker for windows here - https://docs.docker.com/docker-for-windows/
+The project can run using docker. If you want to test it, you may downloading and install docker for windows here - https://docs.docker.com/docker-for-windows/ and pull the image by running this command in cli - "docker pull jrhinanay/marsimage:latest"
 
 
 # Usage
